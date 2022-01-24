@@ -1,0 +1,17 @@
+Package: trocapipe
+Title: Troca as versoes do pipe
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "William",
+           family = "Amorim",
+           role = c("aut", "cre"),
+           email = "wamorim@curso-r.com")
+Description: Troca as versões do pipe de um arquivo de texto, do tradicional para o novo ou vice e versa. Exemplo feito em aula.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    magrittr,
+    stringr
